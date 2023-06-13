@@ -12,3 +12,4 @@ The (almost) all-Python DFTpy and QEpy softwares
  - Xin Chen
  - Jessica Martinez
  - Valeria Rios Vargas
+
